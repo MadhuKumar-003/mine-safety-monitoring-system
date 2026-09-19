@@ -51,7 +51,7 @@ The main objectives of this project were:
 >
 > It is recommended to keep this image prominently displayed in the GitHub README because it provides visual evidence of the physical hardware integration, wiring, controller, sensors, display, and supporting modules used during development.
 
-![Actual Mine Safety Monitoring and Gas Detection System Prototype](mine-safety-monitoring-system.jpeg)
+![Actual Mine Safety Monitoring and Gas Detection System Prototype](images/mine-safety-monitoring-system.jpeg)
 
 ### Hardware Prototype Highlights
 
