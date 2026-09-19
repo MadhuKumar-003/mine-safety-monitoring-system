@@ -209,13 +209,13 @@ Data logging can support:
 This makes the project more than just an alarm system by providing a method for retaining monitoring information.
 # 13. Battery Backup
 
-Battery backup is included to improve system continuity.
+- Battery backup is included to improve system continuity.
 
-The backup power concept is intended to help maintain system operation during power interruptions.
+- The backup power concept is intended to help maintain system operation during power interruptions.
 
-This is particularly relevant to a safety-oriented monitoring system because continued monitoring is important when the primary supply is unavailable.
+- This is particularly relevant to a safety-oriented monitoring system because continued monitoring is important when the primary supply is unavailable.
 
-The battery backup concept also demonstrates practical consideration of reliability and system availability.
+- The battery backup concept also demonstrates practical consideration of reliability and system availability.
 
 # 14. Self-Test Function
 
@@ -446,13 +446,14 @@ The following improvements can be considered for a future version:
 │   └── mine-safety-monitoring-system.jpeg
 │
 ├── src/
-│   └── Arduino-ESP32-source-code
+│   └── rtx
+|   └── rt
 │
 ├── circuit/
-│   └── circuit-diagram
+│   └── circuit overview
 │
-└── docs/
-    └── project-documentation
+└── document
+    └── Mine _safety_monitoring_project_Document
   ```
 # 25. Project Information
 ```
