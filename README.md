@@ -437,7 +437,7 @@ The following improvements can be considered for a future version:
 - Add more advanced fault-detection mechanisms.
 # 24. Repository Structure
 
-``
+```
   mine-safety-monitoring-system/
 │
 ├── README.md
@@ -473,11 +473,13 @@ The following improvements can be considered for a future version:
 | Main Areas        | Embedded Systems, Hardware Integration, Safety Monitoring |
 ```
 #  26. Author
+
 Vattam Madhu Kumar
 
 Electronics & Communication Engineering
 
 Velagapudi Ramakrishna Siddhartha Engineering College
+
 Vijayawada, Andhra Pradesh, India
 
 GitHub
